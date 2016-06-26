@@ -9,3 +9,6 @@
 "xcache","http://xcache.lighttpd.net/pub/Releases/$version/xcache-$version.tar.gz",,,"--enable-xcache","extension",
 "xdebug","http://xdebug.org/files/xdebug-$version.tgz","git://github.com/xdebug/xdebug.git",,"--enable-xdebug","zend_extension","xdebug_after_install"
 "xhprof","http://pecl.php.net/get/xhprof-$version.tgz","git://github.com/facebook/xhprof.git",,,"extension","xhprof_after_install"
+"ev","http://pecl.php.net/get/ev-$version.tgz","https://bitbucket.org/osmanov/pecl-ev.git",,,"extension","xhprof_after_install"
+"event","http://pecl.php.net/get/event-$version.tgz","https://bitbucket.org/osmanov/pecl-event.git",,,"extension",
+"eio","http://pecl.php.net/get/eio-$version.tgz","https://bitbucket.org/osmanov/pecl-eio.git",,,"extension",
